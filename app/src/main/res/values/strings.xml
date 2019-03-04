@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CalculatorIMASTUDIO</string>
+    <string name="Kali">*</string>
+    <string name="Bagi">/</string>
+    <string name="Kurang">-</string>
+    <string name="Tambah">+</string>
+</resources>
